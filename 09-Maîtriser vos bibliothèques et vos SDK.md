@@ -4,7 +4,7 @@
 
 ## Faire un choix éclairé
 
-* **Évaluez l’intérêt de l’ajout de chaque dépendance.** Certaines briques logicielles couramment utilisées ne font que quelques lignes. Cependant chaque élément rajouté est une augmentation de la surface d’attaque de vos systèmes. Dans le cas où une seule bibliothèque propose plusieurs fonctionnalités, n’intégrez que les fonctionnalités dont vous avez effectivement besoin : en activant le minimum de fonctionnalités, vous réduisez le nombre de bugs potentiels qui pourraient survenir.
+* **Évaluez l’intérêt de l’ajout de chaque dépendance.** Certaines briques logicielles couramment utilisées ne font que quelques lignes. Cependant chaque élément rajouté est une augmentation de la surface d’attaque de vos systèmes. Dans le cas où une seule bibliothèque propose plusieurs fonctionnalités, n’intégrez que les fonctionnalités dont vous avez effectivement besoin : en activant le minimum de fonctionnalités, vous réduisez le nombre de bugs potentiels qui pourraient survenir. Enfin, le fait d'utiliser une bibliothèque ou un SDK peut être considéré comme étant un [sous-traitant](https://www.cnil.fr/fr/definition/sous-traitant).
 
 * **Choisissez des logiciels, bibliothèques et SDK maintenus :**
 
